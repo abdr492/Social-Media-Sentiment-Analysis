@@ -1,0 +1,6 @@
+{
+  "name": "Sentilyser: Social Media Sentiment AI",
+  "description": "An industry-grade sentiment analysis dashboard powered by Gemini AI. Analyzes social media text to visualize brand reputation and public opinion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered Sentiment Analysis", "Real-time Dashboard", "Data Categorization"]
+}
