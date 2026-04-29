@@ -1,12 +1,19 @@
-# Social Media Sentiment Analysis
+# 📊 Social Media Sentiment Analysis
 
 A modern sentiment analysis dashboard for social media content, built with React, Vite, TypeScript, and Google Gemini AI.
 
-## Overview
+![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![NLP](https://img.shields.io/badge/NLP-TF--IDF%20%7C%20NLTK-green)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+## 🚀 Overview
 
 Social Media Sentiment Analysis is a web app that pulls public Reddit posts, evaluates their sentiment using the Gemini API, and displays insights in a clean dashboard. It combines a responsive frontend with a lightweight Express/Vite backend for fast local development.
 
-## Features
+## 📊Features
 
 - Real-time Reddit search and post retrieval
 - AI-powered sentiment classification: positive / negative / neutral
@@ -14,7 +21,7 @@ Social Media Sentiment Analysis is a web app that pulls public Reddit posts, eva
 - Interactive charts and social feed display
 - Fully built with TypeScript and modern web tooling
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - Frontend: React, Vite, TypeScript
 - Styling: Tailwind CSS (via Vite plugin)
@@ -22,13 +29,13 @@ Social Media Sentiment Analysis is a web app that pulls public Reddit posts, eva
 - AI Integration: Google Gemini API
 - Package management: npm
 
-## Prerequisites
+## 🛠️ Prerequisites
 
 - Node.js
 - npm
 - A Gemini API key
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repo:
    ```bash
@@ -47,18 +54,32 @@ Social Media Sentiment Analysis is a web app that pulls public Reddit posts, eva
 5. Open the app in your browser:
    http://localhost:3000
 
-Project Structure
-server.ts — Express server with Vite middleware
-src/ — React application source code
-src/lib/gemini.ts — Gemini sentiment analysis integration
-src/components/ — UI components and chart views
-README.md — Project documentation
-requirements.txt — Python dependency snapshot (if using Python tooling)
-Notes
-Do not commit your .env.local file or API keys.
-The app uses server-side AI calls, so your Gemini key stays secure.
-If you want to deploy, ensure all environment variables are configured on the host.
-License
-Use this project as a portfolio or starter template for AI-powered sentiment analysis.
+## 📊 Features
+
+-   Text sentiment prediction\
+-   CSV upload analysis\
+-   Visualization charts\
+-   Real-time dashboard
+
+------------------------------------------------------------------------
+
+## 📈 Results
+
+-   Accurate sentiment classification\
+-   Interactive dashboard
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+Abdul Rahman Anas\
+B.E CSE (AI & ML)
+
+------------------------------------------------------------------------
+
+## 📜 License
+
+MIT License
+.
    
    
