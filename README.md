@@ -41,17 +41,21 @@ Social Media Sentiment Analysis is a web app that pulls public Reddit posts, eva
    ```bash
    git clone https://github.com/abdr492/Social-Media-Sentiment-Analysis.git
    cd Social-Media-Sentiment-Analysis
-   Install dependencies:
+   
 2. Install dependencies
-   npm install
+   ```bash
+    npm install
    
 3. Create a .env.local file in the project root and add your Gemini API key:
+   ```bash
    GEMINI_API_KEY=your_gemini_api_key_here
    
 4. Start the app:
+   ```bash
    npx tsx server.ts
 
 5. Open the app in your browser:
+   ```bash
    http://localhost:3000
 
 ## 📊 Features
